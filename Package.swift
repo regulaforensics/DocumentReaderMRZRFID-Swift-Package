@@ -10,6 +10,6 @@ let package = Package(
             targets: ["MRZRFIDStage"]),
     ],
     targets: [
-        .binaryTarget(name: "MRZRFIDStage", url: "https://pods.regulaforensics.com/Stage/MRZRFIDStage/9.8.19773/DocumentReaderCoreStage_mrzrfid_9.8.19773.zip", checksum: "3d8a212f83411aa3b8eeb547c36a663db415c383c0ae1255f695e00669d66dcd"),
+        .binaryTarget(name: "MRZRFIDStage", url: "https://pods.regulaforensics.com/Stage/MRZRFIDStage/9.8.19819/DocumentReaderCoreStage_mrzrfid_9.8.19819.zip", checksum: "709b669d9bc8e7484dfd921f7826460f5268d518fcb8d379741b85c7965c6b27"),
     ]
 )
